@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class MenuButtonController : MonoBehaviour
+public class SideMenuButtonController : MonoBehaviour
 {
     [SerializeField] private GameObject _hideMenuButton = null;
     [SerializeField] private Animator _menuButtonAnimator = null;
