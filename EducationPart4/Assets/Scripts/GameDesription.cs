@@ -2,7 +2,7 @@
 
 [CreateAssetMenu(fileName = "New Game", menuName = "Game")]
 public class GameDesription : ScriptableObject
-{	
+{
 	public string GameName;
 	public string GameGenre;
 
@@ -12,5 +12,5 @@ public class GameDesription : ScriptableObject
 	public Sprite Screen3;
 
 	public float GameRate;
-	public float GameVolume;	
+	public float GameVolume;
 }
